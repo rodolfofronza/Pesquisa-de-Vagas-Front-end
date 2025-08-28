@@ -1,4 +1,4 @@
-## Pesquisa de vagas de desenvolvedor front-end
+## Pesquisa de vagas de Desenvolvedor Front-End
 - Introdução
 - Vagas
 - Soft skill
